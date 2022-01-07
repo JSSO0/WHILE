@@ -1,0 +1,17 @@
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\EXEMPLOS_WHILE_FOR\bin\Debug\netcoreapp3.1\EXEMPLOS_WHILE_FOR.exe
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\EXEMPLOS_WHILE_FOR\bin\Debug\netcoreapp3.1\EXEMPLOS_WHILE_FOR.deps.json
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\EXEMPLOS_WHILE_FOR\bin\Debug\netcoreapp3.1\EXEMPLOS_WHILE_FOR.runtimeconfig.json
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\EXEMPLOS_WHILE_FOR\bin\Debug\netcoreapp3.1\EXEMPLOS_WHILE_FOR.runtimeconfig.dev.json
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\EXEMPLOS_WHILE_FOR\bin\Debug\netcoreapp3.1\EXEMPLOS_WHILE_FOR.dll
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\EXEMPLOS_WHILE_FOR\bin\Debug\netcoreapp3.1\EXEMPLOS_WHILE_FOR.pdb
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\EXEMPLOS_WHILE_FOR\obj\Debug\netcoreapp3.1\EXEMPLOS_WHILE_FOR.csproj.AssemblyReference.cache
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\EXEMPLOS_WHILE_FOR\obj\Debug\netcoreapp3.1\EXEMPLOS_WHILE_FOR.Form1.resources
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\EXEMPLOS_WHILE_FOR\obj\Debug\netcoreapp3.1\EXEMPLOS_WHILE_FOR.Form2.resources
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\EXEMPLOS_WHILE_FOR\obj\Debug\netcoreapp3.1\EXEMPLOS_WHILE_FOR.csproj.GenerateResource.cache
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\EXEMPLOS_WHILE_FOR\obj\Debug\netcoreapp3.1\EXEMPLOS_WHILE_FOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\EXEMPLOS_WHILE_FOR\obj\Debug\netcoreapp3.1\EXEMPLOS_WHILE_FOR.AssemblyInfoInputs.cache
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\EXEMPLOS_WHILE_FOR\obj\Debug\netcoreapp3.1\EXEMPLOS_WHILE_FOR.AssemblyInfo.cs
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\EXEMPLOS_WHILE_FOR\obj\Debug\netcoreapp3.1\EXEMPLOS_WHILE_FOR.csproj.CoreCompileInputs.cache
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\EXEMPLOS_WHILE_FOR\obj\Debug\netcoreapp3.1\EXEMPLOS_WHILE_FOR.dll
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\EXEMPLOS_WHILE_FOR\obj\Debug\netcoreapp3.1\EXEMPLOS_WHILE_FOR.pdb
+C:\Users\Joely\Desktop\CURSOS\C# BÁSICO\PROJETOS\EXEMPLOS_WHILE_FOR\obj\Debug\netcoreapp3.1\EXEMPLOS_WHILE_FOR.genruntimeconfig.cache
